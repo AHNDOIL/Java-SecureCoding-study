@@ -13,7 +13,7 @@
 |4. 보안에 민감한 메서드들이 검증된 매개변수를 가지고 호출되도록 보장하라 | https://com-squadleader.tistory.com/294 |
 |5. 마구잡이 파일 업로드를 방지하라 | https://com-squadleader.tistory.com/295 |
 |6. 출력을 적절하게 인코딩하거나 이스케이핑하라 | https://com-squadleader.tistory.com/299 |
-|7. 코드 인젝션을 방지하라 | |
+|7. 코드 인젝션을 방지하라 | https://com-squadleader.tistory.com/310 |
 |8. XPath 인젝션을 방지하라 | |
 |9. LDAP 인젝션을 방지하라 | |
 |10. 비신뢰-메서드의 매개변수를 clone() 메서드로 복제하지 말라 | |
