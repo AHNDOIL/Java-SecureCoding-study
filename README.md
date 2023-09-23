@@ -18,7 +18,7 @@
 |9. LDAP 인젝션을 방지하라 | https://com-squadleader.tistory.com/312 |
 |10. 비신뢰-메서드의 매개변수를 clone() 메서드로 복제하지 말라 | https://com-squadleader.tistory.com/313 |
 |11. 암호키를 Object.equals()로 비교하지 말라 | https://com-squadleader.tistory.com/316 |
-|12. 안전하지 않거나 약한 암호 알고리즘을 사용하지 말라 | |
+|12. 안전하지 않거나 약한 암호 알고리즘을 사용하지 말라 | https://com-squadleader.tistory.com/318 |
 |13. 해시 함수를 이용하여 패스워드를 저장하라 | |
 |14. SecureRandom에 적절한 시드를 제공하도록 보장하라 | |
 |15. 비신뢰-코드가 오버라이드할 수 있는 메서드에 의존하지 말라 | |
